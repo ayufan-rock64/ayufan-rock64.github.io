@@ -1,46 +1,15 @@
 # Rock64 and RockPro64 ayufan's packages
 
-## Linux Images
+You can find a list of latest versions of all images and packages with links.
 
-![GitHub Releases](https://img.shields.io/github/downloads/ayufan-rock64/linux-build/total.svg?label=Downloads)
+| Type | Stable | Pre-release | Link | Downloads |
+|---|---|---|---|
+| **Linux images** | [![linux-build rock64 release](https://img.shields.io/github/release/ayufan-rock64/linux-build.svg)](https://github.com/ayufan-rock64/linux-build/releases/latest) | [![linux-build rock64 pre-release](https://img.shields.io/github/release-pre/ayufan-rock64/linux-build.svg)](https://github.com/ayufan-rock64/linux-build/releases/latest) | [docs](/linux-build/) | ![All downloads](https://img.shields.io/github/downloads/ayufan-rock64/linux-build/total.svg) |
+| **Rockchip Kernel (4.4)** | [![linux-kernel rock64 release](https://img.shields.io/github/release/ayufan-rock64/linux-kernel.svg)](https://github.com/ayufan-rock64/linux-kernel/releases/latest) | [![linux-kernel rock64 pre-release](https://img.shields.io/github/release-pre/ayufan-rock64/linux-kernel.svg)](https://github.com/ayufan-rock64/linux-kernel/releases/latest) | [docs](/linux-kernel/) | ![All downloads](https://img.shields.io/github/downloads/ayufan-rock64/linux-kernel/total.svg) |
+| **Mainline Kernel** | [![linux-mainline-kernel rock64 release](https://img.shields.io/github/release/ayufan-rock64/linux-mainline-kernel.svg)](https://github.com/ayufan-rock64/linux-mainline-kernel/releases/latest) | [![linux-mainline-kernel rock64 pre-release](https://img.shields.io/github/release-pre/ayufan-rock64/linux-mainline-kernel.svg)](https://github.com/ayufan-rock64/linux-mainline-kernel/releases/latest) | [docs](/linux-mainline-kernel/) | ![All downloads](https://img.shields.io/github/downloads/ayufan-rock64/linux-mainline-kernel/total.svg) |
+| **Rockchip U-boot** | [![linux-u-boot rock64 release](https://img.shields.io/github/release/ayufan-rock64/linux-u-boot.svg)](https://github.com/ayufan-rock64/linux-u-boot/releases/latest) | [![linux-u-boot rock64 pre-release](https://img.shields.io/github/release-pre/ayufan-rock64/linux-u-boot.svg)](https://github.com/ayufan-rock64/linux-u-boot/releases/latest) | [docs](/linux-u-boot/) | ![All downloads](https://img.shields.io/github/downloads/ayufan-rock64/linux-u-boot/total.svg) |
+| **Rock64 compatibility package** | [![linux-package rock64 release](https://img.shields.io/github/release/ayufan-rock64/linux-package.svg)](https://github.com/ayufan-rock64/linux-package/releases/latest) | [![linux-package rock64 pre-release](https://img.shields.io/github/release-pre/ayufan-rock64/linux-package.svg)](https://github.com/ayufan-rock64/linux-package/releases/latest) | [docs](/linux-package/) | ![All downloads](https://img.shields.io/github/downloads/ayufan-rock64/linux-package/total.svg) |
 
-| Type | Version | Downloads |
-|------|---------|-----------|
-| **Pre-release** | [![linux-build rock64 release](https://img.shields.io/github/release/ayufan-rock64/linux-build.svg?label=Stable)](https://github.com/ayufan-rock64/linux-build/releases/latest) | ![GitHub Releases](https://img.shields.io/github/downloads/ayufan-rock64/linux-build/latest/total.svg) |
-| **Stable** | [![linux-build rock64 pre-release](https://img.shields.io/github/release-pre/ayufan-rock64/linux-build.svg?label=Pre-release)](https://github.com/ayufan-rock64/linux-build/releases) | ![GitHub Pre-Releases](https://img.shields.io/github/downloads-pre/ayufan-rock64/linux-build/latest/total.svg) |
+## Author
 
-## Linux Kernel 4.4
-
-![GitHub Releases](https://img.shields.io/github/downloads/ayufan-rock64/linux-kernel/total.svg?label=Downloads)
-
-| Type | Version | Downloads |
-|------|---------|-----------|
-| **Pre-release** | [![linux-build rock64 release](https://img.shields.io/github/release/ayufan-rock64/linux-kernel.svg?label=Stable)](https://github.com/ayufan-rock64/linux-kernel/releases/latest) | ![GitHub Releases](https://img.shields.io/github/downloads/ayufan-rock64/linux-kernel/latest/total.svg) |
-| **Stable** | [![linux-build rock64 pre-release](https://img.shields.io/github/release-pre/ayufan-rock64/linux-kernel.svg?label=Pre-release)](https://github.com/ayufan-rock64/linux-kernel/releases) | ![GitHub Pre-Releases](https://img.shields.io/github/downloads-pre/ayufan-rock64/linux-kernel/latest/total.svg) |
-
-## Linux Kernel Mainline
-
-![GitHub Releases](https://img.shields.io/github/downloads/ayufan-rock64/linux-mainline-kernel/total.svg?label=Downloads)
-
-| Type | Version | Downloads |
-|------|---------|-----------|
-| **Pre-release** | [![linux-build rock64 release](https://img.shields.io/github/release/ayufan-rock64/linux-mainline-kernel.svg?label=Stable)](https://github.com/ayufan-rock64/linux-mainline-kernel/releases/latest) | ![GitHub Releases](https://img.shields.io/github/downloads/ayufan-rock64/linux-mainline-kernel/latest/total.svg) |
-| **Stable** | [![linux-build rock64 pre-release](https://img.shields.io/github/release-pre/ayufan-rock64/linux-mainline-kernel.svg?label=Pre-release)](https://github.com/ayufan-rock64/linux-mainline-kernel/releases) | ![GitHub Pre-Releases](https://img.shields.io/github/downloads-pre/ayufan-rock64/linux-mainline-kernel/latest/total.svg) |
-
-## Linux U-boot
-
-![GitHub Releases](https://img.shields.io/github/downloads/ayufan-rock64/linux-u-boot/total.svg?label=Downloads)
-
-| Type | Version | Downloads |
-|------|---------|-----------|
-| **Pre-release** | [![linux-build rock64 release](https://img.shields.io/github/release/ayufan-rock64/linux-u-boot.svg?label=Stable)](https://github.com/ayufan-rock64/linux-u-boot/releases/latest) | ![GitHub Releases](https://img.shields.io/github/downloads/ayufan-rock64/linux-u-boot/latest/total.svg) |
-| **Stable** | [![linux-build rock64 pre-release](https://img.shields.io/github/release-pre/ayufan-rock64/linux-u-boot.svg?label=Pre-release)](https://github.com/ayufan-rock64/linux-u-boot/releases) | ![GitHub Pre-Releases](https://img.shields.io/github/downloads-pre/ayufan-rock64/linux-u-boot/latest/total.svg) |
-
-## Rock64 and RockPro64 Compatibility Package
-
-![GitHub Releases](https://img.shields.io/github/downloads/ayufan-rock64/linux-package/total.svg?label=Downloads)
-
-| Type | Version | Downloads |
-|------|---------|-----------|
-| **Pre-release** | [![linux-build rock64 release](https://img.shields.io/github/release/ayufan-rock64/linux-package.svg?label=Stable)](https://github.com/ayufan-rock64/linux-package/releases/latest) | ![GitHub Releases](https://img.shields.io/github/downloads/ayufan-rock64/linux-package/latest/total.svg) |
-| **Stable** | [![linux-build rock64 pre-release](https://img.shields.io/github/release-pre/ayufan-rock64/linux-package.svg?label=Pre-release)](https://github.com/ayufan-rock64/linux-package/releases) | ![GitHub Pre-Releases](https://img.shields.io/github/downloads-pre/ayufan-rock64/linux-package/latest/total.svg) |
+Kamil Trzciński, 2018
