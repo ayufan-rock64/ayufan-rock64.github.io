@@ -3,7 +3,7 @@
 You can find a list of latest versions of all images and packages with links.
 
 | Type | Version | Downloads |
-|---|---|---|---|
+|---|---|---|
 | **Linux images** ([docs](https://github.com/ayufan-rock64/linux-build/blob/master/README.md)) | [![linux-build rock64 release](https://img.shields.io/github/release/ayufan-rock64/linux-build.svg)](https://github.com/ayufan-rock64/linux-build/releases/latest) [![linux-build rock64 pre-release](https://img.shields.io/github/release-pre/ayufan-rock64/linux-build.svg?label=testing)](https://github.com/ayufan-rock64/linux-build/releases) | ![All downloads](https://img.shields.io/github/downloads/ayufan-rock64/linux-build/total.svg) |
 | **Rockchip Kernel (4.4)** | [![linux-kernel rock64 release](https://img.shields.io/github/release/ayufan-rock64/linux-kernel.svg)](https://github.com/ayufan-rock64/linux-kernel/releases/latest) | ![All downloads](https://img.shields.io/github/downloads/ayufan-rock64/linux-kernel/total.svg) |
 | **Mainline Kernel** | [![linux-mainline-kernel rock64 release](https://img.shields.io/github/release/ayufan-rock64/linux-mainline-kernel.svg)](https://github.com/ayufan-rock64/linux-mainline-kernel/releases/latest) | ![All downloads](https://img.shields.io/github/downloads/ayufan-rock64/linux-mainline-kernel/total.svg) |
