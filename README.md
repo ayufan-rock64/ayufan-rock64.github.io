@@ -14,4 +14,4 @@ You can find a list of latest versions of all images and packages with links.
 
 ## Author
 
-Kamil Trzciński, 2018
+Kamil Trzciński, 2018-2019
